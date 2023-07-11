@@ -16,7 +16,7 @@ Voltera leverages the `asyncio` module to enable concurrent programming, making 
 ### Subprocess Management with subprocess
 With the `subprocess` module integration, Voltera enables you to execute external commands and manage subprocesses from within your code. You can spawn new processes, interact with their input and output streams, and even capture their output for further processing.
 
-### Operating System Interaction with os and Numpy
+### Operating System Interaction with os and numpy
 Voltera incorporates the `os` and `numpy` modules to provide seamless interaction with the underlying operating system. You can perform file and directory operations, access environment variables, execute system commands, and more, all from within your code.
 
 ### Time and Date Manipulation with time and datetime
@@ -32,7 +32,7 @@ Voltera uses the `PIL`, `imaplib`, `io` and `google.cloud` modules to visualize 
 Modules `pydub`, `boto3`, `speech_recognition`, `whisper`, `ffmpeg`, `av` and `playsound` help in using voice access to commit and use commands for more efficiency.
 
 ### AI and Voice Assistant
-The AI thinks and uses prompts from both Bing AI and ChatGPT through the modules `EdgeGPT` and `openai` for more knowledge and access to the web's data through Bing's search engine.
+The AI thinks and uses prompts from both Bing AI and ChatGPT through the modules `EdgeGPT` and `openai` and uses advanced data collection methods to generate the perfect response along with Bing AI's important ability of accessing live data from the web.
 
 ### Agility with GPIO Functions
 The project uses the module `gpiozero` to move motors, light and unlight light sources, operate buttons and more for better personalization and speed during tasks.
