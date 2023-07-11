@@ -16,8 +16,8 @@ Voltera leverages the `asyncio` module to enable concurrent programming, making 
 ### Subprocess Management with subprocess
 With the `subprocess` module integration, Voltera enables you to execute external commands and manage subprocesses from within your code. You can spawn new processes, interact with their input and output streams, and even capture their output for further processing.
 
-### Operating System Interaction with os
-Voltera incorporates the `os` module to provide seamless interaction with the underlying operating system. You can perform file and directory operations, access environment variables, execute system commands, and more, all from within your code.
+### Operating System Interaction with os and Numpy
+Voltera incorporates the `os` and `numpy` modules to provide seamless interaction with the underlying operating system. You can perform file and directory operations, access environment variables, execute system commands, and more, all from within your code.
 
 ### Time and Date Manipulation with time and datetime
 The `time` and `datetime` modules integrated into Voltera empower you to work with time-related operations effectively. You can manipulate dates and times, calculate time intervals, format timestamps, and perform various time-based calculations effortlessly.
